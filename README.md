@@ -1,72 +1,144 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=200&section=header&text=Vishal%20Singh&fontSize=48&fontAlignY=38&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20AI%20Systems&descFontSize=20&descAlignY=62&fontColor=ffffff" width="100%" alt="Header Banner" />
-</div>
 
-<div align="center">
-
-  [![Portfolio](https://img.shields.io/badge/Portfolio-vishalx.vercel.app-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://vishalx.vercel.app)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fvishall211-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishall211/)
-  [![Email](https://img.shields.io/badge/Email-vishalsingh.works%40outlook.com-0078d4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:vishalsingh.works@outlook.com)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com)
-
-</div>
+<!-- Hero Terminal SVG Banner -->
+<a href="https://vishalx.vercel.app">
+  <img src="https://raw.githubusercontent.com/vishall211/vishall211/main/assets/hero.svg" width="100%" alt="Vishal Singh - AI & ML Systems Terminal" />
+</a>
 
 <br/>
+<br/>
 
-### 👨‍💻 About Me
+<!-- Modern Pill Navigation -->
+<p align="center">
+  <a href="https://vishalx.vercel.app">
+    <img src="https://img.shields.io/badge/🌐_Live_Portfolio-vishalx.vercel.app-0284c7?style=for-the-badge" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/vishall211/">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-in%2Fvishall211-0a66c2?style=for-the-badge" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:vishalsingh.works@outlook.com">
+    <img src="https://img.shields.io/badge/✉️_Email_Direct-vishalsingh.works-0284c7?style=for-the-badge" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/vishall211?tab=repositories">
+    <img src="https://img.shields.io/badge/📂_Repositories-View_All-1e293b?style=for-the-badge" alt="Repos" />
+  </a>
+</p>
 
-I am a **Data Science & Machine Learning Engineer** passionate about designing intelligent systems, urban analytics, and multimodal GenAI applications. Currently, I focus on turning complex, real-world data into predictive engines and intuitive user-facing products.
-
-- 🔭 **Current Focus:** Building **DTUMOS** (Digital Twin for Urban Mobility) & Multimodal AI agents.
-- 💼 **Experience:** Data Science Intern at **Sabudh Foundation** working on machine learning pipelines and predictive modeling.
-- 🧠 **Continuous Growth:** Sharpening Data Structures & Algorithms, distributed systems, and real-time inference optimization.
-- 📍 **Location:** Chandigarh, India
+</div>
 
 ---
 
-### 🚀 Featured Engineering Projects
+### 🎯 Recruiter & Tech Lead Quick-Scan
+
+```yaml
+Name: Vishal Singh
+Focus: Machine Learning Engineer | Data Scientist | AI Systems
+Specialization:
+  - Spatial-Temporal Modeling & Urban Mobility Digital Twins
+  - Automated Telemetry & GTFS-Realtime Data Engineering
+  - Multimodal GenAI (Speech + Diffusion + Interactive Mobile)
+Flagship Systems:
+  - DTUMOS: Digital Twin for Public Transit Telemetry & Dwell Predictions
+  - Vibe Storytelling: Multimodal Studio Ghibli AI Storybook (Flutter + GenAI)
+  - Delhi Bus Automation: Daily Automated GTFS-RT Telemetry Pipeline
+Current Location: Chandigarh, India (Available for Remote / Hybrid / Relocation)
+Availability: Open to Full-Time & High-Impact Internship Opportunities
+```
+
+---
+
+### 🚀 Flagship Engineering Deep Dives
 
 <table>
+  <!-- PROJECT 1: DTUMOS + DELHI BUS AUTOMATION -->
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🚌 <a href="https://github.com/vishall211/DTUMOS">DTUMOS</a></h3>
-      <p align="center">
-        <b>Digital Twin for Urban Mobility Systems</b>
+    <td colspan="2" bgcolor="#0d1117">
+      <h3>
+        🚌 <a href="https://github.com/vishall211/DTUMOS">DTUMOS</a> + 
+        <a href="https://github.com/vishall211/Delhi-Bus-Data-Automation">Delhi-Bus-Data-Automation</a>
+        &nbsp;
+        <img src="https://img.shields.io/badge/Status-Active_Core-38bdf8?style=flat-square" />
+      </h3>
+      <p><b>Digital Twin for Urban Mobility Systems & Real-Time Telemetry Pipeline</b></p>
+      <p>
+        Predicting bus arrival times and stop dwell times using sparse, low-frequency, jittery GPS transit data. Backed by an automated ingestion engine that compiles daily GTFS-Realtime telemetry streams from Delhi’s transit network.
       </p>
-      <p>Predicting bus arrival times and stop dwell times using sparse, low-frequency GPS transit data. Integrates spatial temporal modeling and predictive analytics for public transit optimization.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-        <img src="https://img.shields.io/badge/Spatial_Analytics-0284C7?style=flat-square" />
+      <pre>
+┌─────────────────────────┐    ┌──────────────────────────┐    ┌─────────────────────────┐
+│ Delhi Open Transit API  │ ── │ Daily Automated ETL      │ ── │ DTUMOS Spatial Engine   │
+│ (GTFS-RT Vehicle Pings) │    │ (Delhi-Bus-Automation)   │    │ (Dwell Time &amp; ETA Pred) │
+└─────────────────────────┘    └──────────────────────────┘    └─────────────────────────┘
+      </pre>
+      <p>
+        <b>Tech Stack:</b>
+        <code>Python</code> • <code>Spatial Analytics</code> • <code>Scikit-Learn</code> • <code>Pandas</code> • <code>NumPy</code> • <code>Automated Telemetry Pipeline</code>
       </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🎨 <a href="https://github.com/vishall211/Vibe-Storytelling">Vibe Storytelling</a></h3>
-      <p align="center">
-        <b>AI Multimodal Interactive Storybook</b>
-      </p>
-      <p>An interactive mobile application that transforms voice or text prompts into illustrated Studio Ghibli–style storybooks with synchronized voice narration and interactive pages.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-        <img src="https://img.shields.io/badge/Multimodal_GenAI-8B5CF6?style=flat-square" />
-        <img src="https://img.shields.io/badge/Audio_TTS-10B981?style=flat-square" />
+      <p>
+        🔗 <a href="https://github.com/vishall211/DTUMOS"><b>View DTUMOS Core Code</b></a> &nbsp;|&nbsp; 
+        🔗 <a href="https://github.com/vishall211/Delhi-Bus-Data-Automation"><b>View Data Automation Pipeline</b></a>
       </p>
     </td>
   </tr>
+
+  <!-- PROJECT 2: VIBE STORYTELLING -->
   <tr>
-    <td colspan="2" valign="top">
-      <h3 align="center">📊 <a href="https://github.com/vishall211/Sabudh-2026">Sabudh Internship Workflows</a></h3>
-      <p align="center">
-        <b>End-to-End Machine Learning & Analytics Pipeline</b>
+    <td width="50%" valign="top" bgcolor="#0d1117">
+      <h3>
+        🎨 <a href="https://github.com/vishall211/Vibe-Storytelling">Vibe Storytelling</a>
+        &nbsp;
+        <img src="https://img.shields.io/badge/GenAI-Multimodal-c084fc?style=flat-square" />
+      </h3>
+      <p><b>AI-Powered Interactive Multimodal Mobile Storybook</b></p>
+      <p>
+        Transforms spoken voice prompts or written ideas into illustrated Studio Ghibli–style storybooks with synchronized neural voice narration and interactive object detection.
       </p>
-      <p>Comprehensive codebase documenting production-grade machine learning pipelines, exploratory data analysis, algorithmic problem-solving, and deployment architectures developed during my Data Science Internship at Sabudh Foundation.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square" />
-        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-        <img src="https://img.shields.io/badge/Data_Pipelines-3B82F6?style=flat-square" />
-        <img src="https://img.shields.io/badge/Statistics-059669?style=flat-square" />
+      <pre>
+User Prompt (Voice/Text)
+        ↓
+Multimodal Narrative Engine
+        ↓
+Diffusion Art + Neural TTS
+        ↓
+Synchronized Flutter Book
+      </pre>
+      <p>
+        <b>Tech Stack:</b>
+        <code>Flutter</code> • <code>Dart</code> • <code>Multimodal GenAI</code> • <code>Neural TTS</code> • <code>Speech-to-Text</code>
+      </p>
+      <p>
+        🔗 <a href="https://github.com/vishall211/Vibe-Storytelling"><b>Explore Vibe Storytelling</b></a>
+      </p>
+    </td>
+
+    <!-- PROJECT 3: SABUDH 2026 -->
+    <td width="50%" valign="top" bgcolor="#0d1117">
+      <h3>
+        📊 <a href="https://github.com/vishall211/Sabudh-2026">Sabudh ML Pipelines</a>
+        &nbsp;
+        <img src="https://img.shields.io/badge/Industry-Internship-34d399?style=flat-square" />
+      </h3>
+      <p><b>End-to-End Machine Learning & Analytics Pipeline</b></p>
+      <p>
+        Comprehensive production-grade codebase documenting exploratory data analysis, predictive modeling, statistical validation, and algorithmic workflows developed during Data Science Internship at Sabudh Foundation.
+      </p>
+      <pre>
+Raw Telemetry &amp; Tabular Data
+        ↓
+Feature Store &amp; Drift Checks
+        ↓
+Model Tuning &amp; Validation
+        ↓
+Inference &amp; Performance Bench
+      </pre>
+      <p>
+        <b>Tech Stack:</b>
+        <code>Machine Learning</code> • <code>Python</code> • <code>EDA</code> • <code>Statistical Inference</code> • <code>Algorithms</code>
+      </p>
+      <p>
+        🔗 <a href="https://github.com/vishall211/Sabudh-2026"><b>Explore Sabudh Workflows</b></a>
       </p>
     </td>
   </tr>
@@ -74,52 +146,62 @@ I am a **Data Science & Machine Learning Engineer** passionate about designing i
 
 ---
 
-### 🛠️ Tech Stack & Capabilities
+### 🛠️ Specialized Technical Capabilities
 
 <div align="center">
 
-| Domain | Technologies |
+| Domain | Core Competencies & Tools |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
-| **Data Science & ML** | ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square) |
-| **App & GenAI** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Generative AI](https://img.shields.io/badge/GenAI-Multimodal-purple?style=flat-square) |
-| **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
+| **Languages & Systems** | `Python (Core)` • `SQL` • `Dart` • `C++` • `Shell / Bash` |
+| **Data Science & ML** | `Scikit-Learn` • `Pandas` • `NumPy` • `Spatial-Temporal Modeling` • `Statistical Analysis` • `Matplotlib` • `Seaborn` |
+| **Generative AI & Multimodal** | `Multimodal LLMs` • `Neural TTS & Whisper Audio` • `Image Diffusion Pipelines` • `Prompt Architecture` |
+| **Engineering & Deployment** | `FastAPI` • `Flutter` • `Git / GitHub Actions` • `Automated Telemetry Pipelines` • `Docker Basics` • `Jupyter` |
 
 </div>
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### 📊 Engineering Activity & Telemetry
 
 <div align="center">
-  <img src="https://github-readme-stats-fast-api.vercel.app/api?username=vishall211&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Vishal's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats-fast-api.vercel.app/api/top-langs/?username=vishall211&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+  <a href="https://github.com/vishall211">
+    <img src="https://github-readme-stats-fast-api.vercel.app/api?username=vishall211&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1&bg_color=0b0f19" alt="Vishal's GitHub Stats" height="165" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/vishall211">
+    <img src="https://github-readme-stats-fast-api.vercel.app/api/top-langs/?username=vishall211&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=cbd5e1&bg_color=0b0f19" alt="Top Languages" height="165" />
+  </a>
 </div>
 
 <div align="center">
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishall211&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="145" />
+  <a href="https://github.com/vishall211">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishall211&theme=tokyonight&hide_border=true&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakNum=38bdf8&sideNums=cbd5e1&sideLabels=94a3b8&dates=64748b&background=0b0f19" alt="GitHub Streak" height="145" />
+  </a>
 </div>
 
 ---
 
-### 📬 Get In Touch
+### 📬 Connect & Collaborate
 
-<p align="center">
-  <a href="https://vishalx.vercel.app">
-    <img src="https://img.shields.io/badge/Personal_Website-0ea5e9?style=for-the-badge&logo=firefox&logoColor=white" alt="Website" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/vishall211/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:vishalsingh.works@outlook.com">
-    <img src="https://img.shields.io/badge/Outlook-0078d4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook" />
-  </a>
-</p>
-
-<p align="center">
-  <i>"Transforming data into decisions and ideas into intelligent software."</i>
-</p>
-
+<div align="center">
+  <p>
+    Whether you are looking to hire, discuss spatial-temporal AI, or build multimodal intelligent systems:
+  </p>
+  <p>
+    <a href="https://vishalx.vercel.app">
+      <img src="https://img.shields.io/badge/Personal_Portfolio-vishalx.vercel.app-0284c7?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/vishall211/">
+      <img src="https://img.shields.io/badge/LinkedIn-in%2Fvishall211-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="mailto:vishalsingh.works@outlook.com">
+      <img src="https://img.shields.io/badge/Email_Me-vishalsingh.works%40outlook.com-0078d4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
+    </a>
+  </p>
+  <p>
+    <i>"Transforming complex telemetry into decisions and creative ideas into intelligent software."</i>
+  </p>
+</div>
