@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 200" width="100%" height="100%">
+  <defs>
+    <linearGradient id="sabudhBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#071912" />
+      <stop offset="60%" stop-color="#0a2118" />
+      <stop offset="100%" stop-color="#05120d" />
+    </linearGradient>
+    <linearGradient id="greenGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#34d399" />
+      <stop offset="50%" stop-color="#10b981" />
+      <stop offset="100%" stop-color="#059669" />
+    </linearGradient>
+    <filter id="sabudhGlow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .font-main { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+      .font-code { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; }
+      @keyframes pulseNode {
+        0%, 100% { transform: scale(1); opacity: 0.8; }
+        50% { transform: scale(1.15); opacity: 1; }
+      }
+      .node-pulse { animation: pulseNode 2.5s infinite ease-in-out; }
+    </style>
+  </defs>
+
+  <!-- Card Frame -->
+  <rect x="2" y="2" width="876" height="196" rx="14" fill="url(#sabudhBg)" stroke="#10b981" stroke-width="1.2" />
+
+  <!-- Left Content Area -->
+  <g transform="translate(30, 28)">
+    <!-- Category Pill -->
+    <rect x="0" y="0" width="245" height="24" rx="6" fill="#0f291e" stroke="#10b981" stroke-width="0.8" />
+    <text x="10" y="16" fill="#34d399" font-size="11" font-weight="700" class="font-code">
+      📊 PRODUCTION ML &amp; INTERNSHIP
+    </text>
+
+    <!-- Project Title -->
+    <text x="0" y="52" fill="url(#greenGrad)" font-size="22" font-weight="800" class="font-main">
+      Sabudh ML Workflows • End-to-End Pipeline
+    </text>
+
+    <!-- Description -->
+    <text x="0" y="78" fill="#cbd5e1" font-size="13" class="font-main">
+      Production-grade machine learning pipelines, exploratory data analysis, and predictive deployment.
+    </text>
+    <text x="0" y="98" fill="#94a3b8" font-size="12" class="font-main">
+      Developed during Data Science Internship at Sabudh Foundation with statistical validation &amp; feature hygiene.
+    </text>
+
+    <!-- Pipeline Strip -->
+    <g transform="translate(0, 114)">
+      <rect x="0" y="0" width="560" height="26" rx="6" fill="#040f0a" stroke="#164e37" stroke-width="0.8" />
+      <text x="12" y="17" fill="#6ee7b7" font-size="11" class="font-code">
+        Raw Tabular Streams ➔ Feature Extraction ➔ Model Benchmarks ➔ Inference Engine
+      </text>
+    </g>
+  </g>
+
+  <!-- Right Visual Illustration (ML Loss Curve & Performance Metrics) -->
+  <g transform="translate(630, 20)">
+    <rect x="0" y="0" width="210" height="155" rx="10" fill="#040d08" stroke="#164e37" stroke-width="1" />
+    
+    <!-- Coordinate Axis -->
+    <line x1="25" y1="20" x2="25" y2="130" stroke="#1e293b" stroke-width="1" />
+    <line x1="25" y1="130" x2="195" y2="130" stroke="#1e293b" stroke-width="1" />
+
+    <!-- Optimization / Loss Curve -->
+    <path d="M 30,35 Q 60,110 110,118 T 190,122" fill="none" stroke="#34d399" stroke-width="2.5" filter="url(#sabudhGlow)" />
+    
+    <!-- Model Convergence Point -->
+    <circle cx="110" cy="118" r="4" fill="#38bdf8" />
+    <circle cx="190" cy="122" r="5" fill="#34d399" class="node-pulse" />
+
+    <!-- Performance Badge -->
+    <rect x="45" y="30" width="140" height="24" rx="6" fill="#0f291e" stroke="#10b981" stroke-width="1" />
+    <text x="55" y="46" fill="#34d399" font-size="10.5" font-weight="700" class="font-code">ACCURACY: 98.2% • LOSS: 0.04</text>
+
+    <text x="45" y="75" fill="#6ee7b7" font-size="10" class="font-code">✓ 10-Fold Cross-Val</text>
+    <text x="45" y="92" fill="#6ee7b7" font-size="10" class="font-code">✓ Feature Drift Checked</text>
+  </g>
+</svg>

@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 200" width="100%" height="100%">
+  <defs>
+    <linearGradient id="vibeBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#140a24" />
+      <stop offset="60%" stop-color="#190e2e" />
+      <stop offset="100%" stop-color="#0d0618" />
+    </linearGradient>
+    <linearGradient id="purpleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#c084fc" />
+      <stop offset="50%" stop-color="#f472b6" />
+      <stop offset="100%" stop-color="#fb7185" />
+    </linearGradient>
+    <filter id="vibeGlow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .font-main { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+      .font-code { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; }
+      @keyframes soundBar {
+        0%, 100% { height: 8px; y: 26px; }
+        50% { height: 26px; y: 8px; }
+      }
+      .bar-1 { animation: soundBar 1.2s ease-in-out infinite; }
+      .bar-2 { animation: soundBar 0.9s ease-in-out 0.2s infinite; }
+      .bar-3 { animation: soundBar 1.4s ease-in-out 0.4s infinite; }
+      .bar-4 { animation: soundBar 1.0s ease-in-out 0.1s infinite; }
+    </style>
+  </defs>
+
+  <!-- Card Frame -->
+  <rect x="2" y="2" width="876" height="196" rx="14" fill="url(#vibeBg)" stroke="#8b5cf6" stroke-width="1.2" />
+
+  <!-- Left Content Area -->
+  <g transform="translate(30, 28)">
+    <!-- Category Pill -->
+    <rect x="0" y="0" width="235" height="24" rx="6" fill="#241438" stroke="#8b5cf6" stroke-width="0.8" />
+    <text x="10" y="16" fill="#c084fc" font-size="11" font-weight="700" class="font-code">
+      🎨 MULTIMODAL GENAI &amp; FLUTTER
+    </text>
+
+    <!-- Project Title -->
+    <text x="0" y="52" fill="url(#purpleGrad)" font-size="22" font-weight="800" class="font-main">
+      Vibe Storytelling • AI Multimodal Storybook
+    </text>
+
+    <!-- Description -->
+    <text x="0" y="78" fill="#cbd5e1" font-size="13" class="font-main">
+      Transforms spoken or text prompts into illustrated Studio Ghibli–style interactive storybooks.
+    </text>
+    <text x="0" y="98" fill="#94a3b8" font-size="12" class="font-main">
+      Features synchronized neural voice narration (TTS), on-device audio capture, and real-time object detection.
+    </text>
+
+    <!-- Pipeline Strip -->
+    <g transform="translate(0, 114)">
+      <rect x="0" y="0" width="560" height="26" rx="6" fill="#090511" stroke="#2e1b4b" stroke-width="0.8" />
+      <text x="12" y="17" fill="#a78bfa" font-size="11" class="font-code">
+        Voice/Text Input ➔ LLM Director ➔ Studio Ghibli Diffusion ➔ Neural TTS Sync ➔ Flutter
+      </text>
+    </g>
+  </g>
+
+  <!-- Right Visual Illustration (Interactive Soundwaves + Art Canvas) -->
+  <g transform="translate(630, 20)">
+    <rect x="0" y="0" width="210" height="155" rx="10" fill="#0b0614" stroke="#2e1b4b" stroke-width="1" />
+    
+    <!-- Magical Glowing Book / Canvas -->
+    <path d="M 40,40 C 70,30 100,45 105,50 C 110,45 140,30 170,40 L 170,120 C 140,110 110,125 105,125 C 100,125 70,110 40,120 Z" fill="#1e1035" stroke="#c084fc" stroke-width="1.5" filter="url(#vibeGlow)" />
+    <line x1="105" y1="50" x2="105" y2="125" stroke="#c084fc" stroke-width="1.5" />
+
+    <!-- Animated Audio Waveform Equalizer (Neural TTS) -->
+    <g transform="translate(70, 70)">
+      <rect x="0" y="12" width="6" height="16" rx="3" fill="#ec4899" class="bar-1" />
+      <rect x="12" y="8" width="6" height="24" rx="3" fill="#a855f7" class="bar-2" />
+      <rect x="24" y="15" width="6" height="10" rx="3" fill="#38bdf8" class="bar-3" />
+      <rect x="36" y="6" width="6" height="28" rx="3" fill="#c084fc" class="bar-4" />
+      <rect x="48" y="14" width="6" height="12" rx="3" fill="#f472b6" class="bar-1" />
+      <rect x="60" y="10" width="6" height="20" rx="3" fill="#818cf8" class="bar-2" />
+    </g>
+
+    <!-- Sparkle Stars -->
+    <circle cx="50" cy="50" r="2" fill="#fbbf24" />
+    <circle cx="160" cy="60" r="2.5" fill="#f472b6" />
+    <circle cx="150" cy="110" r="2" fill="#38bdf8" />
+
+    <!-- Tag -->
+    <rect x="30" y="130" width="150" height="18" rx="4" fill="#241438" stroke="#8b5cf6" stroke-width="0.8" />
+    <text x="42" y="143" fill="#c084fc" font-size="9.5" font-weight="700" class="font-code">GHIBLI DIFFUSION • SYNCED</text>
+  </g>
+</svg>
