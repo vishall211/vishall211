@@ -1,19 +1,28 @@
 <div align="center">
   <a href="https://vishalx.vercel.app">
-    <img src="https://github.com/vishall211/vishall211/raw/main/assets/header.svg?v=4" width="100%" alt="Vishal Singh - Master Card" />
+    <img src="https://github.com/vishall211/vishall211/raw/main/assets/header.svg?v=5" width="100%" alt="Vishal Singh - Master Card" />
   </a>
 </div>
 
+<br/>
+
 <div align="center">
-
-<p align="center">
-  <a href="https://vishalx.vercel.app"><img src="https://img.shields.io/badge/Portfolio-vishalx.vercel.app-0f172a?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/vishall211/"><img src="https://img.shields.io/badge/LinkedIn-vishall211-0f172a?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:vishalsingh.works@outlook.com"><img src="https://img.shields.io/badge/Email-vishalsingh.works@outlook.com-0f172a?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=vishall211&label=Views&color=0ea5e9&style=flat-square" alt="Views" />
-</p>
-
+  <a href="https://vishalx.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=vercel&logoColor=38bdf8" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/vishall211/">
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=38bdf8" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:vishalsingh.works@outlook.com">
+    <img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=microsoftoutlook&logoColor=38bdf8" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=vishall211&label=Views&color=0284c7&style=flat-square" alt="Views" />
 </div>
+
+<br/>
 
 ---
 
