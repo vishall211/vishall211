@@ -10,7 +10,6 @@
   <a href="https://vishalx.vercel.app"><img src="https://img.shields.io/badge/Portfolio-vishalx.vercel.app-0f172a?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/vishall211/"><img src="https://img.shields.io/badge/LinkedIn-vishall211-0f172a?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:vishalsingh.works@outlook.com"><img src="https://img.shields.io/badge/Email-vishalsingh.works@outlook.com-0f172a?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/vishall211?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-0f172a?style=flat-square&logo=github&logoColor=white" alt="Repositories" /></a>
   <img src="https://komarev.com/ghpvc/?username=vishall211&label=Profile%20Views&color=0ea5e9&style=flat-square" alt="Profile Views" />
 </p>
 
