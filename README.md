@@ -23,10 +23,10 @@ Hello! I'm a software developer based in Chandigarh, India, driven by curiosity 
 
 While grounded in general software engineering fundamentals—clean code, data structures, and backend services—I am actively steering my growth toward **data systems and data engineering**. I enjoy building practical tools, designing automated workflows, and turning raw records into well-structured datasets.
 
-- 🔭 **Current Focus:** Building automated data collection pipelines, backend APIs, and exploring real-world telemetry data.
-- 📚 **Continuous Learning:** Deepening knowledge in SQL optimization, database internals, data pipeline orchestration, and system design principles.
-- 🛠️ **Engineering Philosophy:** Prioritizing strong fundamentals over hype, writing clear and maintainable code, and learning in public.
-- 🎯 **Aspiration:** Growing into data engineering and backend data-intensive systems while continuing to ship practical software.
+- **Current Focus:** Building automated data collection pipelines, backend APIs, and exploring real-world telemetry data.
+- **Continuous Learning:** Deepening knowledge in SQL optimization, database internals, data pipeline orchestration, and system design principles.
+- **Engineering Philosophy:** Prioritizing strong fundamentals over hype, writing clear and maintainable code, and learning in public.
+- **Aspiration:** Growing into data engineering and backend data-intensive systems while continuing to ship practical software.
 
 ---
 
