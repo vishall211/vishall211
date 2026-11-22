@@ -60,24 +60,17 @@ Currently Exploring :: Database Internals, Pipeline Orchestration (Airflow conce
 
 ### 📈 GitHub Overview
 
-<table align="center">
-  <tr>
-    <td align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=vishall211&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff" alt="Vishal's GitHub Stats" height="150" />
-    </td>
-    <td align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishall211&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff" alt="Top Languages" height="150" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="middle">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishall211&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" height="150" />
-    </td>
-    <td align="center" valign="middle">
-      <img src="https://komarev.com/ghpvc/?username=vishall211&label=Profile%20Views&color=0284c7&style=for-the-badge" alt="Profile Views" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vishall211&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff" alt="Vishal's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishall211&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff" alt="Top Languages" height="150" />
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishall211&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" height="142" />
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=vishall211&label=Profile%20Views&color=58a6ff&labelColor=0d1117&style=flat-square" alt="Profile Views" />
+</div>
 
 ---
 
