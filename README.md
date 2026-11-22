@@ -73,16 +73,24 @@ Currently Exploring :: Database Internals, Pipeline Orchestration (Airflow conce
 
 ---
 
-### 📬 Connect
+### 📬 Get In Touch
 
 <p align="center">
-  Always happy to connect regarding engineering roles, data projects, or interesting ideas.<br/><br/>
-  <a href="https://vishalx.vercel.app"><b>Portfolio Website</b></a> &nbsp;&bull;&nbsp;
-  <a href="https://www.linkedin.com/in/vishall211/"><b>LinkedIn</b></a> &nbsp;&bull;&nbsp;
-  <a href="mailto:vishalsingh.works@outlook.com"><b>vishalsingh.works@outlook.com</b></a> &nbsp;&bull;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=vishall211&label=Profile%20Views&color=58a6ff&labelColor=0d1117&style=flat-square" alt="Profile Views" align="center" />
+  Whether you want to discuss engineering opportunities, data systems, or interesting project ideas—feel free to reach out!
 </p>
 
 <p align="center">
-  <i>"Focusing on the fundamentals, embracing continuous learning, and building step by step."</i>
+  <a href="https://vishalx.vercel.app"><b>🌐 Portfolio Website</b></a>
+  &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/vishall211/"><b>💼 LinkedIn</b></a>
+  &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+  <a href="mailto:vishalsingh.works@outlook.com"><b>✉️ Email Me</b></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vishall211&label=Profile%20Views&color=58a6ff&labelColor=0d1117&style=flat-square" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <sub><i>"Focusing on the fundamentals, embracing continuous learning, and building step by step."</i></sub>
 </p>
