@@ -1,34 +1,34 @@
 # Vishal Singh
-**Data Science & Machine Learning Engineer** • Chandigarh, India
+**Software Developer • Data Systems Enthusiast** • Chandigarh, India
 
-[Portfolio](https://vishalx.vercel.app) • [LinkedIn](https://www.linkedin.com/in/vishall211/) • [Email](mailto:vishalsingh.works@outlook.com) • [LeetCode](https://leetcode.com)
-
----
-
-### Focus
-- **Machine Learning & Predictive Systems:** Developing spatial-temporal modeling and transit digital twins.
-- **Multimodal GenAI Products:** Building cross-platform apps combining LLMs, voice synthesis, and image generation.
-- **Data Engineering & Analytics:** Designing scalable pipelines for telemetry and high-volume data streams.
+[Portfolio](https://vishalx.vercel.app) • [LinkedIn](https://www.linkedin.com/in/vishall211/) • [Email](mailto:vishalsingh.works@outlook.com) • [Repositories](https://github.com/vishall211?tab=repositories)
 
 ---
 
-### Pinned Projects
-
-- **[DTUMOS](https://github.com/vishall211/DTUMOS)** — Digital Twin for Urban Mobility Systems predicting bus arrival and stop dwell times with low-frequency GPS streams (`Python`, `Scikit-Learn`, `Pandas`).
-- **[Vibe-Storytelling](https://github.com/vishall211/Vibe-Storytelling)** — Multimodal mobile app transforming text/speech into illustrated Studio Ghibli–style interactive storybooks with synchronized voice narration (`Flutter`, `Dart`, `GenAI`).
-- **[Sabudh-2026](https://github.com/vishall211/Sabudh-2026)** — Production ML workflows, predictive analytics, and algorithmic problem-solving developed during Data Science Internship at Sabudh Foundation (`Python`, `Machine Learning`).
+### Focus & Learning
+- **Data Systems & Pipelines:** Building automated ETL pipelines, exploring telemetry streams, and working with relational databases.
+- **Backend & Core Software:** Developing clean REST APIs, microservices, and practical utilities using Python, FastAPI, and C++.
+- **Continuous Learning:** Exploring database internals, query optimization, and distributed data systems.
 
 ---
 
-### Tech Stack
-- **Languages:** Python, SQL, Dart, C++
-- **ML & Data:** Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn
-- **Development & Deploy:** Flutter, FastAPI, Git, Docker, Jupyter Notebooks
+### Key Projects
+
+- **[DTUMOS](https://github.com/vishall211/DTUMOS)** — Urban mobility data analysis isolating bus stop dwell times and traffic delay patterns with GPS telemetry streams (`Python`, `Pandas`, `Spatial Data`).
+- **[Delhi Bus Data Pipeline](https://github.com/vishall211/Delhi-Bus-Data-Automation)** — Automated data ingestion and ETL pipeline compiling real-time GTFS transit feeds into structured datasets (`Python`, `ETL`, `Automation`).
+- **[Vibe Storytelling](https://github.com/vishall211/Vibe-Storytelling)** — Cross-platform mobile app featuring interactive storytelling and synchronized voice narration (`Flutter`, `Dart`).
+- **[Sabudh Analytics](https://github.com/vishall211/Sabudh-2026)** — Applied exploratory data analysis, statistics, and algorithms from data science internship labs (`Python`, `NumPy`, `EDA`).
+
+---
+
+### Technical Toolbox
+- **Languages:** Python, SQL, C++, Dart, Bash
+- **Data & Analytics:** Pandas, NumPy, Relational Data Modeling, PostgreSQL, ETL Automation
+- **Backend & Tools:** FastAPI, Git, Docker, Linux
 
 ---
 
 <p align="left">
-  <img src="https://github-readme-stats-fast-api.vercel.app/api?username=vishall211&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats-fast-api.vercel.app/api/top-langs/?username=vishall211&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vishall211&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff" alt="GitHub Stats" height="145" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishall211&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff" alt="Top Languages" height="145" />
 </p>
-

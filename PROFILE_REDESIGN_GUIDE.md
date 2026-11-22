@@ -1,6 +1,6 @@
 # 🚀 GitHub Profile Redesign Blueprint for @vishall211
 
-This blueprint covers how engineers and tech leaders configure their GitHub presence to attract recruiters, engineering managers, and collaborators.
+This blueprint covers how software engineers configure their GitHub presence to present a clean, modern, and professional impression for recruiters, hiring managers, and peers.
 
 ---
 
@@ -22,25 +22,21 @@ This blueprint covers how engineers and tech leaders configure their GitHub pres
 
 ---
 
-## Step 1: Create the Special Profile Repository
+## Step 1: Ensure Your Profile README is Live
 
-GitHub provides a special feature: when you create a public repository with the exact same name as your username (`vishall211/vishall211`), the `README.md` in that repository will be displayed on your main profile overview!
+GitHub renders the `README.md` from a special repository matching your username (`vishall211/vishall211`) directly on your main profile overview.
 
-1. Go to [https://github.com/new](https://github.com/new).
-2. Set **Repository name** to: `vishall211`.
-3. Set visibility to **Public**.
-4. Check **Add a README file**.
-5. Click **Create repository**.
-6. Replace the repository's `README.md` content with the code from [`README.md`](file:///Users/vishalsingh/Desktop/Projects%202026/GitHub%20redesign/README.md).
+1. Ensure the contents of [`README.md`](./README.md) are committed to your repository's `main` branch.
+2. Verify that the repository is set to **Public**.
 
 ---
 
 ## Step 2: Unlock Your Contribution Graph (Fix "Activity is private")
 
-Right now, your profile displays:
+If your profile displays:
 > *@vishall211's activity is private*
 
-This prevents visitors from seeing your continuous coding streaks and consistency.
+Visitors won't be able to see your continuous coding activity and consistency.
 
 ### How to Fix:
 1. Go to your GitHub profile overview: [https://github.com/vishall211](https://github.com/vishall211).
@@ -48,7 +44,7 @@ This prevents visitors from seeing your continuous coding streaks and consistenc
    - Navigate to **Settings** → **Public profile** → **Contribution settings**.
    - Check **"Include private contributions on my profile"**.
    - Ensure your profile visibility settings allow public activity.
-3. Verify your Git email locally: Ensure commits made from your computer match the email verified on GitHub (`git config user.email` matches an email under [GitHub Email Settings](https://github.com/settings/emails)), so all your commits receive proper attribution.
+3. Verify your Git email locally: Ensure commits made from your machine match the email verified on GitHub (`git config user.email` matches an email under [GitHub Email Settings](https://github.com/settings/emails)), so all your commits receive proper attribution.
 
 ---
 
@@ -59,57 +55,57 @@ This prevents visitors from seeing your continuous coding streaks and consistenc
 * **Current Bio:**
   > `Data enthusiast focused on analytics, problem solving, and building tools that turn raw data into decisions. Currently strengthening DSA and system thinking.`
 
-* **Recommended Professional Bio (Choose one, fits within GitHub's 160-char limit):**
-  - **Option A (Systems & ML Focus):**
-    > `Data Science & ML Engineer | Building DTUMOS & Multimodal AI | Turning complex transit & sensor data into predictive systems.`
-  - **Option B (Impact & Product Focus):**
-    > `Machine Learning & Analytics | Ex-Data Science Intern @ Sabudh | Building real-time predictive models & multimodal AI apps.`
+* **Recommended Modern & Classy Bios (Choose one, fits within GitHub's 160-char limit):**
+  - **Option A (Balanced Software & Data focus):**
+    > `Software Developer & Data Systems Enthusiast | Building automated pipelines, APIs & tools with Python and SQL | Focused on fundamentals & continuous learning.`
+  - **Option B (Grounded Builder focus):**
+    > `Software developer learning by building | Exploring data engineering, databases & distributed systems | Python, SQL, C++ & Flutter.`
 
 ### Sidebar Fields:
 - **Name:** Vishal Singh
-- **Company:** Sabudh Foundation (or open to roles: *Open to Data Science / ML Roles*)
 - **Location:** Chandigarh, India
 - **Website:** `https://vishalx.vercel.app`
 - **Social accounts:**
   - LinkedIn: `https://www.linkedin.com/in/vishall211/`
-  - LeetCode / HackerRank: Linked in your profile README.
+  - GitHub Repositories: [Explore](https://github.com/vishall211?tab=repositories)
 
 ---
 
-## Step 4: Pin Your Top 3 Repositories
+## Step 4: Pin Your Top Repositories
 
-Instead of letting GitHub auto-show or hide repositories, explicitly pin your strongest projects:
+Explicitly pin your strongest projects to direct visitors to your best work:
 
 1. On your profile page, click **Customize your pins** (or **Edit pins**).
-2. Select these 3 repositories:
-   1. **`DTUMOS`**: Highlight of predictive modeling, transit data, and Python data science.
-   2. **`Vibe-Storytelling`**: Demonstrates full-stack multimodal AI product engineering with Flutter/Dart.
-   3. **`Sabudh-2026`**: Demonstrates industry internship rigor and data science fundamentals.
+2. Select these repositories:
+   1. **`DTUMOS`**: Urban transit data analytics and delay modeling using Python & Pandas.
+   2. **`Delhi-Bus-Data-Automation`**: Automated data ingestion and ETL telemetry pipeline.
+   3. **`Vibe-Storytelling`**: Cross-platform application demonstrating full software development cycle with Flutter.
+   4. **`Sabudh-2026`**: Applied data exploration, analytics labs, and algorithms from internship experience.
 
 ---
 
-## Step 5: Repository Hygiene (How Pros Make Repos Look Production-Ready)
+## Step 5: Repository Hygiene (Production-Ready Polish)
 
 For each pinned repository, follow these standards:
 
 ### 1. Add Repository Topics (Tags)
 On each repo homepage, click the gear icon ⚙️ next to "About":
 - For **`DTUMOS`**:
-  `digital-twin`, `urban-mobility`, `machine-learning`, `transit-data`, `spatial-analytics`, `python`, `predictive-modeling`
+  `data-analysis`, `urban-mobility`, `transit-data`, `spatial-analytics`, `python`, `pandas`
+- For **`Delhi-Bus-Data-Automation`**:
+  `etl`, `data-pipeline`, `python`, `gtfs`, `automation`, `telemetry`
 - For **`Vibe-Storytelling`**:
-  `generative-ai`, `multimodal`, `flutter`, `dart`, `ai-storyteller`, `text-to-speech`, `ghibli-style`
+  `flutter`, `dart`, `mobile-app`, `storytelling`, `interactive-ui`
 - For **`Sabudh-2026`**:
-  `data-science`, `machine-learning`, `internship`, `data-analytics`, `algorithms`, `eda`
+  `data-analysis`, `python`, `numpy`, `internship`, `statistics`, `eda`
 
 ### 2. Set the "About" Website / Demo link
 - For `Vibe-Storytelling`, add a link to an APK release, demo video, or portfolio writeup.
-- For `DTUMOS`, add a link to the research report, notebook, or web dashboard if available.
+- For `DTUMOS` & `Delhi-Bus-Data-Automation`, add a link to sample outputs or documentation.
 
 ### 3. Ensure a Standard Repository README Structure
-Every professional repository includes:
-- **Badges**: Python version, license, build status.
-- **Problem Statement**: What problem does this solve?
-- **Architecture / Methodology**: How the data flows or how the AI is integrated.
-- **Quickstart**: Reproducible setup instructions (`pip install -r requirements.txt`, `python run.py`).
-- **Results / Metrics**: Accuracy, latency, sample screenshots, or sample output.
-
+Every repository should clearly communicate:
+- **Overview**: What problem does this solve?
+- **Data Flow / Architecture**: How data moves or how components interact.
+- **Quickstart**: Simple setup instructions (`pip install -r requirements.txt`, `python main.py`).
+- **Sample Outputs**: Summary tables, metrics, or screenshots.
