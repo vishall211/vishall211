@@ -1,28 +1,8 @@
 <div align="center">
   <a href="https://vishalx.vercel.app">
-    <img src="https://github.com/vishall211/vishall211/raw/main/assets/header.svg?v=5" width="100%" alt="Vishal Singh - Master Card" />
+    <img src="https://github.com/vishall211/vishall211/raw/main/assets/header.svg?v=6" width="100%" alt="Vishal Singh - Master Card" />
   </a>
 </div>
-
-<br/>
-
-<div align="center">
-  <a href="https://vishalx.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=vercel&logoColor=38bdf8" alt="Portfolio" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/vishall211/">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=38bdf8" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:vishalsingh.works@outlook.com">
-    <img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=microsoftoutlook&logoColor=38bdf8" alt="Email" />
-  </a>
-  &nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=vishall211&label=Views&color=0284c7&style=flat-square" alt="Views" />
-</div>
-
-<br/>
 
 ---
 
@@ -88,6 +68,8 @@ Currently Exploring :: Database Internals, Pipeline Orchestration (Airflow conce
 <div align="center">
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishall211&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" height="142" />
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=vishall211&label=Profile%20Views&color=0284c7&style=flat-square" alt="Profile Views" />
 </div>
 
 ---
