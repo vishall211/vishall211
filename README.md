@@ -1,10 +1,6 @@
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=vishall211&base=1420&label=All-Time%20Views&color=58a6ff&labelColor=0d1117&style=flat-square" alt="All-Time Profile Views" />
-</div>
-
 <div align="center">
   <a href="https://vishalx.vercel.app">
-    <img src="https://github.com/vishall211/vishall211/raw/main/assets/header.svg?v=9" width="100%" alt="Vishal Singh - Master Card" />
+    <img src="https://github.com/vishall211/vishall211/raw/main/assets/header.svg?v=10" width="100%" alt="Vishal Singh - Master Card" />
   </a>
 </div>
 
