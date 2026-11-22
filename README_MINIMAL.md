@@ -16,8 +16,6 @@
 
 - **[DTUMOS](https://github.com/vishall211/DTUMOS)** — Urban mobility data analysis isolating bus stop dwell times and traffic delay patterns with GPS telemetry streams (`Python`, `Pandas`, `Spatial Data`).
 - **[Delhi Bus Data Pipeline](https://github.com/vishall211/Delhi-Bus-Data-Automation)** — Automated data ingestion and ETL pipeline compiling real-time GTFS transit feeds into structured datasets (`Python`, `ETL`, `Automation`).
-- **[Vibe Storytelling](https://github.com/vishall211/Vibe-Storytelling)** — Cross-platform mobile app featuring interactive storytelling and synchronized voice narration (`Flutter`, `Dart`).
-- **[Sabudh Analytics](https://github.com/vishall211/Sabudh-2026)** — Applied exploratory data analysis, statistics, and algorithms from data science internship labs (`Python`, `NumPy`, `EDA`).
 
 ---
 

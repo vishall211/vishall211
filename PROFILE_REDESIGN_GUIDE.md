@@ -71,16 +71,15 @@ Visitors won't be able to see your continuous coding activity and consistency.
 
 ---
 
-## Step 4: Pin Your Top Repositories
+## Step 4: Pin Your Top 2 Repositories
 
-Explicitly pin your strongest projects to direct visitors to your best work:
+Direct visitors immediately to your two strongest public engineering projects:
 
-1. On your profile page, click **Customize your pins** (or **Edit pins**).
-2. Select these repositories:
+1. On your profile page ([github.com/vishall211](https://github.com/vishall211)), click **Customize your pins** (or **Edit pins**).
+2. Deselect everything else and select **only these 2 repositories**:
    1. **`DTUMOS`**: Urban transit data analytics and delay modeling using Python & Pandas.
    2. **`Delhi-Bus-Data-Automation`**: Automated data ingestion and ETL telemetry pipeline.
-   3. **`Vibe-Storytelling`**: Cross-platform application demonstrating full software development cycle with Flutter.
-   4. **`Sabudh-2026`**: Applied data exploration, analytics labs, and algorithms from internship experience.
+3. Click **Save pins**.
 
 ---
 

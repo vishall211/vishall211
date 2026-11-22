@@ -32,7 +32,7 @@ While grounded in general software engineering fundamentals—clean code, data s
 
 ### 💻 Featured Projects
 
-A selection of practical projects across data processing, automation, and full-stack software development:
+A highlight of key public engineering projects:
 
 <table>
   <tr>
@@ -50,24 +50,6 @@ A selection of practical projects across data processing, automation, and full-s
       <p>An automated data pipeline that regularly polls, ingests, cleans, and structures real-time GTFS transit feeds into query-ready historical datasets.</p>
       <p>
         <code>Python</code> &bull; <code>ETL Workflows</code> &bull; <code>GTFS-RT</code> &bull; <code>Data Pipelines</code>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>📱 <a href="https://github.com/vishall211/Vibe-Storytelling">Vibe Storytelling</a></h4>
-      <p><b>Interactive Storytelling Application</b></p>
-      <p>A cross-platform mobile application combining dynamic interactive storytelling with synchronized voice audio narration and responsive UI components.</p>
-      <p>
-        <code>Flutter</code> &bull; <code>Dart</code> &bull; <code>Audio APIs</code> &bull; <code>Mobile App</code>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📊 <a href="https://github.com/vishall211/Sabudh-2026">Sabudh Analytics Labs</a></h4>
-      <p><b>Applied Analytics &amp; Workflow Foundations</b></p>
-      <p>Hands-on repository documenting statistical data exploration, exploratory analytics, and algorithmic solutions developed during my internship at Sabudh Foundation.</p>
-      <p>
-        <code>Python</code> &bull; <code>NumPy</code> &bull; <code>EDA</code> &bull; <code>Statistics</code>
       </p>
     </td>
   </tr>
