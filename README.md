@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://vishalx.vercel.app">
-    <img src="https://github.com/vishall211/vishall211/raw/main/assets/header.svg?v=10" width="100%" alt="Vishal Singh - Master Card" />
+    <img src="https://raw.githubusercontent.com/vishall211/vishall211/main/assets/header.svg?v=12" width="100%" alt="Vishal Singh - Master Card" />
   </a>
 </div>
 
@@ -76,7 +76,7 @@ Currently Exploring :: Database Internals, Pipeline Orchestration (Airflow conce
 ### 📬 Get In Touch
 
 <div align="center">
-  <img src="https://github.com/vishall211/vishall211/raw/main/assets/pet.svg?v=1" width="200" alt="Coding Companion" />
+  <img src="https://raw.githubusercontent.com/vishall211/vishall211/main/assets/pet.svg?v=2" width="200" alt="Coding Companion" />
 </div>
 
 <p align="center">

@@ -125,36 +125,38 @@
     </text>
 
     <!-- Animated Profile Views Telemetry Pill (Bottom Right) -->
-    <rect x="640" y="-14" width="168" height="20" rx="10" fill="#0c1929" stroke="#0284c7" stroke-width="0.9">
+    <rect x="635" y="-14" width="175" height="20" rx="10" fill="#0c1929" stroke="#0ea5e9" stroke-width="0.9">
       <animate attributeName="stroke" values="#0284c7;#38bdf8;#0284c7" dur="3s" repeatCount="indefinite" />
     </rect>
-    <circle cx="652" cy="-4" r="3.5" fill="#38bdf8">
+    <circle cx="648" cy="-4" r="3.5" fill="#38bdf8">
       <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite" />
     </circle>
-    <circle cx="652" cy="-4" r="3.5" fill="none" stroke="#38bdf8" stroke-width="0.8">
+    <circle cx="648" cy="-4" r="3.5" fill="none" stroke="#38bdf8" stroke-width="0.8">
       <animate attributeName="r" values="3.5;7.5;10" dur="2s" repeatCount="indefinite" />
       <animate attributeName="opacity" values="0.8;0.2;0" dur="2s" repeatCount="indefinite" />
     </circle>
-    <text x="664" y="-0.5" fill="#94a3b8" font-size="10" font-weight="600" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">
+    <text x="659" y="-4" dominant-baseline="central" fill="#94a3b8" font-size="9.5" font-weight="600" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" letter-spacing="0.4">
       VIEWS:
     </text>
-    <text x="708" y="-0.5" fill="#38bdf8" font-size="11" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">
+    <text x="704" y="-4" dominant-baseline="central" fill="#38bdf8" font-size="11" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
       1,440+
-      <animate attributeName="fill" values="#38bdf8;#60a5fa;#38bdf8" dur="3s" repeatCount="indefinite" />
+      <animate attributeName="fill" values="#38bdf8;#93c5fd;#38bdf8" dur="3s" repeatCount="indefinite" />
     </text>
-    <rect x="774" y="-2" width="2" height="5" fill="#38bdf8" rx="0.5" />
-    <rect x="778" y="-4" width="2" height="7" fill="#38bdf8" rx="0.5">
-      <animate attributeName="height" values="4;8;4" dur="1.4s" repeatCount="indefinite" />
-      <animate attributeName="y" values="-2;-6;-2" dur="1.4s" repeatCount="indefinite" />
-    </rect>
-    <rect x="782" y="-6" width="2" height="9" fill="#38bdf8" rx="0.5">
-      <animate attributeName="height" values="6;10;6" dur="1.8s" repeatCount="indefinite" />
-      <animate attributeName="y" values="-3;-7;-3" dur="1.8s" repeatCount="indefinite" />
-    </rect>
-    <rect x="786" y="-8" width="2" height="11" fill="#38bdf8" rx="0.5">
-      <animate attributeName="height" values="7;12;7" dur="1.6s" repeatCount="indefinite" />
-      <animate attributeName="y" values="-4;-9;-4" dur="1.6s" repeatCount="indefinite" />
-    </rect>
+    <g transform="translate(760, -4)">
+      <rect x="0" y="-3" width="2.5" height="6" fill="#38bdf8" rx="0.5" />
+      <rect x="5" y="-5" width="2.5" height="10" fill="#38bdf8" rx="0.5">
+        <animate attributeName="height" values="5;10;5" dur="1.4s" repeatCount="indefinite" />
+        <animate attributeName="y" values="-2.5;-5;-2.5" dur="1.4s" repeatCount="indefinite" />
+      </rect>
+      <rect x="10" y="-7" width="2.5" height="14" fill="#38bdf8" rx="0.5">
+        <animate attributeName="height" values="8;14;8" dur="1.8s" repeatCount="indefinite" />
+        <animate attributeName="y" values="-4;-7;-4" dur="1.8s" repeatCount="indefinite" />
+      </rect>
+      <rect x="15" y="-9" width="2.5" height="18" fill="#38bdf8" rx="0.5">
+        <animate attributeName="height" values="10;18;10" dur="1.6s" repeatCount="indefinite" />
+        <animate attributeName="y" values="-5;-9;-5" dur="1.6s" repeatCount="indefinite" />
+      </rect>
+    </g>
   </g>
 
   <!-- Subtle Shimmer Scan Line at Bottom -->
