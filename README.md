@@ -68,6 +68,8 @@ Currently Exploring :: Database Internals, Pipeline Orchestration (Airflow conce
 <div align="center">
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishall211&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" height="142" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=vishall211&label=Profile%20Views&color=0284c7&style=for-the-badge" alt="Profile Views" height="32" />
 </div>
 
 ---
@@ -78,8 +80,7 @@ Currently Exploring :: Database Internals, Pipeline Orchestration (Airflow conce
   Always happy to connect regarding engineering roles, data projects, or interesting ideas.<br/><br/>
   <a href="https://vishalx.vercel.app"><b>Portfolio Website</b></a> &nbsp;&bull;&nbsp;
   <a href="https://www.linkedin.com/in/vishall211/"><b>LinkedIn</b></a> &nbsp;&bull;&nbsp;
-  <a href="mailto:vishalsingh.works@outlook.com"><b>vishalsingh.works@outlook.com</b></a> &nbsp;&bull;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=vishall211&label=Profile%20Views&color=0284c7&style=flat-square" alt="Profile Views" align="center" />
+  <a href="mailto:vishalsingh.works@outlook.com"><b>vishalsingh.works@outlook.com</b></a>
 </p>
 
 <p align="center">
