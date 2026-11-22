@@ -139,7 +139,7 @@
       VIEWS:
     </text>
     <text x="704" y="-4" dominant-baseline="central" fill="#38bdf8" font-size="11" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
-      1,441
+      1,440+
       <animate attributeName="fill" values="#38bdf8;#93c5fd;#38bdf8" dur="3s" repeatCount="indefinite" />
     </text>
     <g transform="translate(760, -4)">
