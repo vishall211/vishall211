@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://vishalx.vercel.app">
-    <img src="https://raw.githubusercontent.com/vishall211/vishall211/b765a78/assets/header.svg" width="100%" alt="Vishal Singh - Master Card" />
+    <img src="https://raw.githubusercontent.com/vishall211/vishall211/main/assets/header.svg?v=aligned-baseline-v18" width="100%" alt="Vishal Singh - Master Card" />
   </a>
 </div>
 
