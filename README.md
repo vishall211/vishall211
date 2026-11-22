@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://vishalx.vercel.app">
-    <img src="https://github.com/vishall211/vishall211/raw/main/assets/header.svg?v=6" width="100%" alt="Vishal Singh - Master Card" />
+    <img src="https://github.com/vishall211/vishall211/raw/main/assets/header.svg?v=7" width="100%" alt="Vishal Singh - Master Card" />
   </a>
 </div>
 
@@ -75,20 +75,18 @@ Currently Exploring :: Database Internals, Pipeline Orchestration (Airflow conce
 
 ### 📬 Get In Touch
 
-<p align="center">
-  Whether you want to discuss engineering opportunities, data systems, or interesting project ideas—feel free to reach out!
-</p>
+<div align="center">
+  <img src="https://github.com/vishall211/vishall211/raw/main/assets/pet.svg?v=1" width="200" alt="Coding Companion" />
+</div>
 
 <p align="center">
+  <b>Thanks for dropping by!</b><br/>
+  Always open to discussions around data engineering, backend systems, or interesting collaborations.<br/><br/>
   <a href="https://vishalx.vercel.app"><b>🌐 Portfolio Website</b></a>
   &nbsp;&nbsp;&bull;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/vishall211/"><b>💼 LinkedIn</b></a>
   &nbsp;&nbsp;&bull;&nbsp;&nbsp;
   <a href="mailto:vishalsingh.works@outlook.com"><b>✉️ Email Me</b></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vishall211&label=Profile%20Views&color=58a6ff&labelColor=0d1117&style=flat-square" alt="Profile Views" />
 </p>
 
 <p align="center">
