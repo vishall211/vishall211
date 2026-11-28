@@ -26,7 +26,7 @@ A highlight of key public engineering projects:
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🚌 <a href="https://github.com/vishall211/Digital-Twin-for-Urban-Mobility-Systems">DTUMOS</a></h4>
+      <h4>🚌 <a href="https://github.com/vishall211/Digital-Twin-for-Urban-Mobility-Systems">Digital Twin for Urban Mobility Systems</a></h4>
       <p><b>Urban Mobility Data &amp; Delay Analysis</b></p>
       <p>Analyzes urban bus GPS telemetry streams to isolate passenger stop dwell times, identify traffic bottlenecks, and examine transit arrival patterns.</p>
       <p>
